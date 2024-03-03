@@ -1,0 +1,65 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.tituloPesquisa {
+    margin: auto;
+    width: 70%;
+    padding: 2px 10px;
+    background-color: rgb(79, 164, 250);
+}
+
+.btn-total {
+    margin: auto;
+    width: 70%;
+    padding: 2px 10px;
+}
+
+.form-label {
+    font-size: 100%;
+}
+
+.cabecalho {
+    padding: 1em;
+    color: white;
+    background-color: dodgerblue;
+}
+
+#formulario {
+    width: 70%;
+    margin: auto;
+}
+
+.table-responsive {
+    width: 70%;
+    margin: auto;
+}
+
+.ContainerCompleto {
+    width: 100%;
+    margin: 5em auto;
+}
+
+#InputForm {
+    border: 1px solid rgb(212, 200, 200);
+    box-shadow: none;
+    width: 100%;
+}
+
+#selectForm {
+    border: 1px solid rgb(212, 200, 200);
+    box-shadow: none;
+    width: 100%;
+}
+
+.div-teste {
+    display: flex;
+    gap: 1em;
+}
+
+.ContainerCadastroPrimeiro {
+    display: flex;
+    gap: 2em;
+}
